@@ -18,7 +18,7 @@
 </template>
 
 <script>
-  import router from "../../router/router";
+  import router from "../../router";
   export default {
     name: "Header",
 
